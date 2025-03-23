@@ -6,7 +6,8 @@ Học sinh: Nguyễn Đỗ Huy<br>
 Nội dung: Làm quen với Cấu trúc dữ liệu và giải thuật
 
 # Bài tập
-
+- [Bài 01. Ôn tập cơ sở lập trình](01_On_tap/)
+- [Bài 02. Con trỏ, cấu trúc, chuỗi và tập tin](02_Con_tro_Cau_truc_Chuoi_va_Tap_tin/)
 
 # Tham Khảo
 
