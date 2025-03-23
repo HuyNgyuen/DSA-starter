@@ -4,7 +4,7 @@
 - Giảng viên: Đỗ Như Tài
 - Môn học: Cấu trúc dữ liệu và giải thuật
 
-# Bài tập
+---
 
 # Con trỏ cho đối tượng và mảng một chiều
 
