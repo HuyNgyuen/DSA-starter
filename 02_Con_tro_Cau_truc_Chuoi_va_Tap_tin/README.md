@@ -1,4 +1,4 @@
-# Con trỏ, cấu trúc, chuỗi và tập tin
+# CON TRỎ, CẤU TRÚC, CHUỖI VÀ TẬP TIN
 - Sinh viên: Nguyễn Đỗ Huy
 - Mã số sinh viên: 3121411085
 - Giảng viên: Đỗ Như Tài
